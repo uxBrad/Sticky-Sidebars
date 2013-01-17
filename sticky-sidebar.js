@@ -1,11 +1,11 @@
 /*!
  * Copyright (c) 2011 Brad Cooper | http://willworkforart.net
  * Licensed under GNU General Public License v3
- * Date: 04/03/2011
+ * Date: 01/17/2013
  * @author: Brad Cooper
  * @version: 0.2011.7
  *
- * http://willworkforart.net/
+ * http://sketchtactic.com/
  */
 
 /*jslint white: true, onevar: true, undef: true, newcap: true, nomen: true, regexp: true, plusplus: true, bitwise: true, strict: true, browser: true, windows: true */
